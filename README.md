@@ -56,9 +56,16 @@ This project integrates multiple APIs and charting libraries to display temperat
 - live map location of that particular area
 
 ---
-<img width="1766" height="684" alt="image" src="https://github.com/user-attachments/assets/dae83a3d-6885-4fe9-a71f-b45bd33236b8" />
-assests/Screenshot 2025-08-29 002847.png
+## application iamges
 
+
+<img width="1903" height="782" alt="image" src="https://github.com/user-attachments/assets/007c45af-9c4e-4ddc-9b9b-4ac276597a6e" />
+<img width="1853" height="823" alt="image" src="https://github.com/user-attachments/assets/63ccc803-5e93-4939-a717-0101c1ea3bad" />
+<img width="1850" height="667" alt="image" src="https://github.com/user-attachments/assets/7cb912ec-3f80-4079-aa91-7a8a7f7f4447" />
+
+
+
+---
 
 ## 👨‍💻 Author
 - **Kiran Mandal**  
