@@ -56,7 +56,8 @@ This project integrates multiple APIs and charting libraries to display temperat
 - live map location of that particular area
 
 ---
-
+<img width="1766" height="684" alt="image" src="https://github.com/user-attachments/assets/dae83a3d-6885-4fe9-a71f-b45bd33236b8" />
+assests/Screenshot 2025-08-29 002847.png
 
 
 ## 👨‍💻 Author
